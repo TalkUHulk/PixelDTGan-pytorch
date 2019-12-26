@@ -8,7 +8,7 @@ This is my personal exercises that reimplement "Pixel-Level Domain Transfer" wit
   <em> Loss </em>
 </p>
 <p align="center">
-  <img src="image/epoch.gif.jpg" width="400"> <br />
+  <img src="image/epoch.gif" width="400"> <br />
   <em> generation-gif</em>
 </p>
 <p align="center">
